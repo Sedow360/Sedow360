@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Sedow360
-- 👀 I’m interested in Photography. But I'm looking forward to learn about programming and CP.
+- 👀 I’m interested in Photography. But I'm looking forward to learn about programming and App dev.
 - 🌱 I’m currently learning C.
 - 💞️ I’m looking to collaborate on Instagram.
 - 📫 How to reach me on Insta, @_ominousity_
