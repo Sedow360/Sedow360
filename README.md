@@ -8,7 +8,7 @@ I build projects to learn things properly, not just to have something on a resum
 
 ## 🚀 Projects
 
-- **[drawee]([https://github.com/Sedow360/drawee])** — A realtime collaborative whiteboard + chat app. React + Vite for frontend. Express for backend. Redis for ephemeral storage. No auth, no sign in(yet). [[Live]]([https://drawee-wk3j.vercel.app/])
+- **[drawee](https://github.com/Sedow360/drawee)** — A realtime collaborative whiteboard + chat app. React + Vite for frontend. Express for backend. Redis for ephemeral storage. No auth, no sign in(yet). [[Live]](https://drawee-wk3j.vercel.app/)
 
 - **[PaperPlane](https://github.com/Sedow360/PaperPlane)** — Anonymous messaging platform. Next.js fullstack, NextAuth, MongoDB, AI-suggested messages via OpenRouter, OTP verification, rate limiting with Upstash Redis. [[Live]](https://paper-plane-iota.vercel.app/)
 
