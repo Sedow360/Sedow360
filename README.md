@@ -14,14 +14,12 @@ I build projects to learn things properly, not just to have something on a resum
 
 - **[NicheHolyTech](https://github.com/Sedow360/Niche-Holy-Tech)** — Serverless blog platform built on AWS Lambda + DynamoDB with a React/Vite frontend. JWT auth, subscriber gating, 8 Lambda functions behind API Gateway. [[Live]](https://niche-holy-tech.vercel.app/)
 
-- **[Notid](https://github.com/Sedow360/Notid)** — Full-stack CRUD notes app, MERN stack, JWT authentication.
-
 ---
 
 ## 🛠️ Tech Stack
 
 `Next.js` `React` `TypeScript` `Node.js` `Express.js` `MongoDB` `DynamoDB`
-`AWS Lambda` `API Gateway` `NextAuth.js` `Tailwind CSS` `shadcn/ui` `JWT` `Git`
+`AWS Lambda` `API Gateway` `NextAuth.js` `Tailwind CSS` `FastAPI` `PostgreSQL`
 
 ---
 
