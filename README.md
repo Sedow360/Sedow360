@@ -34,5 +34,5 @@ When I am not debugging CORS issues or optimizing socket payloads, you can usual
 ## 📫 Reach me
 
 - Email: ayushmaiti2004@gmail.com
-- LinkedIn: [Ayush Maiti]((https://www.linkedin.com/in/ayush-maiti-dev/))
+- LinkedIn: [Ayush Maiti](https://www.linkedin.com/in/ayush-maiti-dev/)
 - Instagram: [@ominousity](https://instagram.com/ominousity)
