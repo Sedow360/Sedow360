@@ -1,9 +1,9 @@
-# Hi, I'm Ayush Maiti (@Sedow360) 👋
+# Hi, I'm Ayush Maiti 👋
+---
+### CSE Undergrad @ TMSL, Kolkata 
+**Focusing on High-Performance Web Architectures, Distributed Cloud Infrastructure, and AI Integration.**
 
-CSE undergrad @ TMSL, Kolkata — into web dev, cloud, and occasionally pointing a camera at things.
-
-I build projects to learn things properly, not just to have something on a resume. Currently going deep on fullstack development with an eye on SDE with a career in cloud down the line.
-
+I build software to solve real structural constraints and explore systems deeply, not just to pad a resume. Currently engineering full-stack platforms with a trajectory toward scalable cloud systems architecture.
 ---
 
 ## 🚀 Projects
@@ -16,12 +16,18 @@ I build projects to learn things properly, not just to have something on a resum
 
 ---
 
-## 🛠️ Tech Stack
+### 🛠️ Core Technology Stack
 
-`Next.js` `React` `TypeScript` `Node.js` `Express.js` `MongoDB` `DynamoDB`
-`AWS Lambda` `API Gateway` `NextAuth.js` `Tailwind CSS` `FastAPI` `PostgreSQL`
+* **Languages:** Java (Data Structures & Algorithms), JavaScript (ES6+), TypeScript, Python
+* **Frontend:** Next.js, React.js, Tailwind CSS, Vite
+* **Backend & Real-Time:** Node.js, Express.js, FastAPI, Socket.io WebSockets
+* **Cloud & Serverless:** AWS Lambda, Amazon API Gateway, Next.js Middleware, Vercel, Render
+* **Databases & Caching:** Upstash Redis (Ephemeral State), MongoDB, Amazon DynamoDB, PostgreSQL
 
 ---
+
+### 📷 Beyond the Terminal
+When I am not debugging CORS issues or optimizing socket payloads, you can usually find me practicing street photography and analyzing visual framing through a camera lens.
 
 ## 📫 Reach me
 
