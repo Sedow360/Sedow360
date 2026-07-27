@@ -3,9 +3,9 @@
 ### CSE Undergrad @ TMSL, Kolkata 
 **Focusing on High-Performance Web Architectures, Distributed Cloud Infrastructure, and AI Integration.**
 
-*🏆 LeetCode: Top 5.38% Globally (1870 Contest Rating, Knight)*
+*🏆 LeetCode: Top 3.5% Globally (1914 Contest Rating, Knight)*
 
-I build software to solve real structural constraints and explore systems deeply, not just to pad a resume. Currently engineering full-stack platforms with a trajectory toward scalable cloud systems architecture.
+I build software to solve real structural constraints and explore systems deeply, not just to pad a resume. Currently engineering full-stack platforms with a trajectory toward scalable cloud systems architecture and AIML.
 ---
 
 ## 🚀 Projects
@@ -16,15 +16,17 @@ I build software to solve real structural constraints and explore systems deeply
 
 - **[NicheHolyTech](https://github.com/Sedow360/Niche-Holy-Tech)** — Serverless blog platform built on AWS Lambda + DynamoDB with a React/Vite frontend. JWT auth, subscriber gating, 8 Lambda functions behind API Gateway. [[Live]](https://niche-holy-tech.vercel.app/)
 
+- **[PokeUnite](https://github.com/Sedow360/PokeUnite)** — Two-stage matchmaking pipeline combining pgvector semantic retrieval with a Scikit-Learn regression ranker. Created as a learning project and works on synthetically generated data.
+
 ---
 
 ### 🛠️ Core Technology Stack
 
-* **Languages:** Java (Data Structures & Algorithms), JavaScript (ES6+), TypeScript, Python
+* **Languages:** JavaScript, TypeScript, Python, Java (Data Structures & Algorithms)
 * **Frontend:** Next.js, React.js, Tailwind CSS, Vite
 * **Backend & Real-Time:** Node.js, Express.js, FastAPI, Socket.io WebSockets
-* **Cloud & Serverless:** AWS Lambda, Amazon API Gateway, Next.js Middleware, Vercel, Render
-* **Databases & Caching:** Upstash Redis (Ephemeral State), MongoDB, Amazon DynamoDB, PostgreSQL
+* **Cloud & Serverless:** AWS, Vercel, Render, OpenRouter, Nodemailer
+* **Databases & Caching:** Upstash Redis, MongoDB, Amazon DynamoDB, PostgreSQL
 
 ---
 
