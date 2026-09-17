@@ -3,7 +3,7 @@
 ### CSE Undergrad @ TMSL, Kolkata 
 **Focusing on High-Performance Web Architectures, Distributed Cloud Infrastructure, and AI Integration.**
 
-*🏆 LeetCode: Top 3.5% Globally (1914 Contest Rating, Knight)*
+*🏆 LeetCode: Top 2.6% Globally (2003 Contest Rating, Knight)*
 
 I build software to solve real structural constraints and explore systems deeply, not just to pad a resume. Currently engineering full-stack platforms with a trajectory toward scalable cloud systems architecture and AIML.
 ---
